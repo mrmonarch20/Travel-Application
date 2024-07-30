@@ -1,4 +1,4 @@
-TravelApp
+
 TravelApp is a console-based Java application designed to manage travel destinations and itineraries. This application allows users to add, view, and remove travel destinations, as well as create and manage itineraries for their trips.
 
 Features
