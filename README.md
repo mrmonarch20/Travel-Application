@@ -18,7 +18,7 @@ To run this application, ensure you have the following installed:
 Java JDK 8 or higher
 Steps
 Clone the repository:
-git clone https://github.com/your-username/TravelApp.git
+git clone https://github.com/mrmonarch20/Travel-Application
 cd TravelApp
 Compile the application:
 
